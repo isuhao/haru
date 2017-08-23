@@ -17,7 +17,7 @@
 #ifndef _HPDF_H
 #define _HPDF_H
 
-#include "hpdf_config.h"
+#include "hpdf_config.hpp"
 #include "hpdf_version.h"
 #include "hpdf_objects.h"
 
