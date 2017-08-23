@@ -22,6 +22,7 @@
 #include "hpdf_objects.h"
 
 
+
 #define HPDF_UNUSED(a) ((void)(a))
 
 #ifdef HPDF_DLL_MAKE
